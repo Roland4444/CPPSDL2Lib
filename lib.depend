@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1625368346 source:/home/roland/Documents/lib/lib/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<linux/videodev2.h>
+	<sys/mman.h>
+	<SDL2/SDL.h>
+	<sys/ioctl.h>
+	<fstream>
+
